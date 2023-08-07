@@ -38,7 +38,7 @@ diagram içinde sol tarafta) inceleyiniz.
 
 ---
 
-Projenin son görüntüsü görseldeki gibi olmalıdır: [görsel için tıklayın](/project-output.png)
+Projenin son görüntüsü görseldeki gibi olmalıdır: [görsel için tıklayın](/-outprojectput.png)
 
 ### Görev 3: Ek Görevler
 
